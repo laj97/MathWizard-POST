@@ -1,0 +1,40 @@
+D:/jeff/Dropbox/CIS/CIDM/CIDM3312/Spring 2018/CIDM3312-Spring2018-InClass/MathWizard/bin/Debug/netcoreapp2.0/MathWizard.deps.json
+D:/jeff/Dropbox/CIS/CIDM/CIDM3312/Spring 2018/CIDM3312-Spring2018-InClass/MathWizard/bin/Debug/netcoreapp2.0/MathWizard.runtimeconfig.json
+D:/jeff/Dropbox/CIS/CIDM/CIDM3312/Spring 2018/CIDM3312-Spring2018-InClass/MathWizard/bin/Debug/netcoreapp2.0/MathWizard.runtimeconfig.dev.json
+D:/jeff/Dropbox/CIS/CIDM/CIDM3312/Spring 2018/CIDM3312-Spring2018-InClass/MathWizard/bin/Debug/netcoreapp2.0/MathWizard.dll
+D:/jeff/Dropbox/CIS/CIDM/CIDM3312/Spring 2018/CIDM3312-Spring2018-InClass/MathWizard/bin/Debug/netcoreapp2.0/MathWizard.pdb
+D:/jeff/Dropbox/CIS/CIDM/CIDM3312/Spring 2018/CIDM3312-Spring2018-InClass/MathWizard/obj/Debug/netcoreapp2.0/MathWizard.csproj.CoreCompileInputs.cache
+D:/jeff/Dropbox/CIS/CIDM/CIDM3312/Spring 2018/CIDM3312-Spring2018-InClass/MathWizard/obj/Debug/netcoreapp2.0/MathWizard.AssemblyInfoInputs.cache
+D:/jeff/Dropbox/CIS/CIDM/CIDM3312/Spring 2018/CIDM3312-Spring2018-InClass/MathWizard/obj/Debug/netcoreapp2.0/MathWizard.AssemblyInfo.cs
+D:/jeff/Dropbox/CIS/CIDM/CIDM3312/Spring 2018/CIDM3312-Spring2018-InClass/MathWizard/obj/Debug/netcoreapp2.0/MathWizard.dll
+D:/jeff/Dropbox/CIS/CIDM/CIDM3312/Spring 2018/CIDM3312-Spring2018-InClass/MathWizard/obj/Debug/netcoreapp2.0/MathWizard.pdb
+D:/jeff/Dropbox/CIS/CIDM/CIDM3312/Spring 2018/CIDM3312-Spring2018-InClass/MathProgram/MathWizard/bin/Debug/netcoreapp2.0/MathWizard.deps.json
+D:/jeff/Dropbox/CIS/CIDM/CIDM3312/Spring 2018/CIDM3312-Spring2018-InClass/MathProgram/MathWizard/bin/Debug/netcoreapp2.0/MathWizard.runtimeconfig.json
+D:/jeff/Dropbox/CIS/CIDM/CIDM3312/Spring 2018/CIDM3312-Spring2018-InClass/MathProgram/MathWizard/bin/Debug/netcoreapp2.0/MathWizard.runtimeconfig.dev.json
+D:/jeff/Dropbox/CIS/CIDM/CIDM3312/Spring 2018/CIDM3312-Spring2018-InClass/MathProgram/MathWizard/bin/Debug/netcoreapp2.0/MathWizard.dll
+D:/jeff/Dropbox/CIS/CIDM/CIDM3312/Spring 2018/CIDM3312-Spring2018-InClass/MathProgram/MathWizard/bin/Debug/netcoreapp2.0/MathWizard.pdb
+D:/jeff/Dropbox/CIS/CIDM/CIDM3312/Spring 2018/CIDM3312-Spring2018-InClass/MathProgram/MathWizard/obj/Debug/netcoreapp2.0/MathWizard.csproj.CoreCompileInputs.cache
+D:/jeff/Dropbox/CIS/CIDM/CIDM3312/Spring 2018/CIDM3312-Spring2018-InClass/MathProgram/MathWizard/obj/Debug/netcoreapp2.0/MathWizard.AssemblyInfoInputs.cache
+D:/jeff/Dropbox/CIS/CIDM/CIDM3312/Spring 2018/CIDM3312-Spring2018-InClass/MathProgram/MathWizard/obj/Debug/netcoreapp2.0/MathWizard.AssemblyInfo.cs
+D:/jeff/Dropbox/CIS/CIDM/CIDM3312/Spring 2018/CIDM3312-Spring2018-InClass/MathProgram/MathWizard/obj/Debug/netcoreapp2.0/MathWizard.dll
+D:/jeff/Dropbox/CIS/CIDM/CIDM3312/Spring 2018/CIDM3312-Spring2018-InClass/MathProgram/MathWizard/obj/Debug/netcoreapp2.0/MathWizard.pdb
+C:/CIDM3312/CIDM3312-Spring2018-InClass/MathProgram/MathWizard/bin/Debug/netcoreapp2.0/MathWizard.deps.json
+C:/CIDM3312/CIDM3312-Spring2018-InClass/MathProgram/MathWizard/bin/Debug/netcoreapp2.0/MathWizard.runtimeconfig.json
+C:/CIDM3312/CIDM3312-Spring2018-InClass/MathProgram/MathWizard/bin/Debug/netcoreapp2.0/MathWizard.runtimeconfig.dev.json
+C:/CIDM3312/CIDM3312-Spring2018-InClass/MathProgram/MathWizard/bin/Debug/netcoreapp2.0/MathWizard.dll
+C:/CIDM3312/CIDM3312-Spring2018-InClass/MathProgram/MathWizard/bin/Debug/netcoreapp2.0/MathWizard.pdb
+C:/CIDM3312/CIDM3312-Spring2018-InClass/MathProgram/MathWizard/obj/Debug/netcoreapp2.0/MathWizard.csproj.CoreCompileInputs.cache
+C:/CIDM3312/CIDM3312-Spring2018-InClass/MathProgram/MathWizard/obj/Debug/netcoreapp2.0/MathWizard.AssemblyInfoInputs.cache
+C:/CIDM3312/CIDM3312-Spring2018-InClass/MathProgram/MathWizard/obj/Debug/netcoreapp2.0/MathWizard.AssemblyInfo.cs
+C:/CIDM3312/CIDM3312-Spring2018-InClass/MathProgram/MathWizard/obj/Debug/netcoreapp2.0/MathWizard.dll
+C:/CIDM3312/CIDM3312-Spring2018-InClass/MathProgram/MathWizard/obj/Debug/netcoreapp2.0/MathWizard.pdb
+/Users/Guero/Downloads/CIDM3312-Spring2018-InClass-master-2/MathProgram/MathWizard/bin/Debug/netcoreapp2.0/MathWizard.deps.json
+/Users/Guero/Downloads/CIDM3312-Spring2018-InClass-master-2/MathProgram/MathWizard/bin/Debug/netcoreapp2.0/MathWizard.runtimeconfig.json
+/Users/Guero/Downloads/CIDM3312-Spring2018-InClass-master-2/MathProgram/MathWizard/bin/Debug/netcoreapp2.0/MathWizard.runtimeconfig.dev.json
+/Users/Guero/Downloads/CIDM3312-Spring2018-InClass-master-2/MathProgram/MathWizard/bin/Debug/netcoreapp2.0/MathWizard.dll
+/Users/Guero/Downloads/CIDM3312-Spring2018-InClass-master-2/MathProgram/MathWizard/bin/Debug/netcoreapp2.0/MathWizard.pdb
+/Users/Guero/Downloads/CIDM3312-Spring2018-InClass-master-2/MathProgram/MathWizard/obj/Debug/netcoreapp2.0/MathWizard.csproj.CoreCompileInputs.cache
+/Users/Guero/Downloads/CIDM3312-Spring2018-InClass-master-2/MathProgram/MathWizard/obj/Debug/netcoreapp2.0/MathWizard.AssemblyInfoInputs.cache
+/Users/Guero/Downloads/CIDM3312-Spring2018-InClass-master-2/MathProgram/MathWizard/obj/Debug/netcoreapp2.0/MathWizard.AssemblyInfo.cs
+/Users/Guero/Downloads/CIDM3312-Spring2018-InClass-master-2/MathProgram/MathWizard/obj/Debug/netcoreapp2.0/MathWizard.dll
+/Users/Guero/Downloads/CIDM3312-Spring2018-InClass-master-2/MathProgram/MathWizard/obj/Debug/netcoreapp2.0/MathWizard.pdb

@@ -1,0 +1,13 @@
+@model RegisterViewModel
+
+@{
+    ViewData["Title"] = "Registration";
+    Layout = null;
+}
+
+<form asp-controller="Home" asp-action="ProcessRegistration" method="post">
+    Email:  <input asp-for="Email" /> <br />
+    Password: <input asp-for="Password" /><br />
+    Count: <input asp-for="Count" type="number" /><br />
+    <button type="submit">Register</button>
+</form>

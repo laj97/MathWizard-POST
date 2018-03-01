@@ -1,0 +1,56 @@
+@model MathOp
+
+@{
+    ViewData["Title"] = "Registration";
+}
+
+<div class="container">
+    <form class="form-horizontal"
+            asp-action="DoMathOp"
+            method="POST">
+        <fieldset>
+            @* Title of Form *@
+            <legend>Math Wizard</legend>
+
+            @* Left Operand *@
+            <div class="form-group">
+                <label asp-for="Left Operand">
+                </label>
+                <input class="form-control"
+                    asp-for="LeftOperand"
+                    placeholder="Left Operand"
+                    type="number">
+            </div>
+
+            @* Operation Select *@
+            <div class="form-group">
+                <label asp-for="Operator"></label>
+                <select class="form-control" asp-for="Operator">
+                    <option>Plus</option>
+                    <option>Minus</option>
+                    <option>Times</option>
+                    <option>Divided By</option>
+                    <option>Modulus</option>
+                </select>
+            </div>
+
+            @* Right Operand *@
+            <div class="form-group">
+                <label asp-for="Right Operand">
+                </label>
+                <input class="form-control"
+                    asp-for="RightOperand"
+                    placeholder="Right Operand"
+                    type="number">
+            </div>
+
+            @* Hidden Result *@
+            <input asp-for="Operator" type="hidden">
+
+            @* Submit Button *@
+            <div class="form-group">
+                <button class="btn btn-default" type="submit">Caculate</button>
+            </div>                
+        </fieldset>
+    </form>
+</div>

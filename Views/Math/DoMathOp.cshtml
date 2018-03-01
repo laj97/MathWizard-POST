@@ -1,0 +1,18 @@
+@model MathOp
+
+@{
+    ViewData["Title"] = "Math Operation Result";
+    //Layout = null;
+}
+
+<p>
+    <span class="badge badge-dark">@Model.LeftOperand</span>
+    &nbsp;
+    <span class="badge badge-light">@Model.Operator</span>
+    &nbsp;
+    <span class="badge badge-dark">@Model.RightOperand</span>
+    &nbsp;    
+    <span class="badge badge-light">Equals</span> 
+    &nbsp;    
+    <span class="badge badge-success">@Model.Result </span>
+</p>
